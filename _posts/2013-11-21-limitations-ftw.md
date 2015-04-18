@@ -2,7 +2,7 @@
 layout: post
 title: limitations ftw
 ---
-Ok since Im a sucker for [oldschool hardware samplers](/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
+Ok since Im a sucker for [oldschool hardware samplers]({{ site.baseurl }}/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
 
 
 Some of the tips here are borrowed from forums, youtube etc.  

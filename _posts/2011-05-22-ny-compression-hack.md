@@ -11,7 +11,7 @@ Get yourself a budget pedal compressor
   
 So..I decided to create it..well..with the help of [Behringer CS100](http://www.behringer.com/EN/Products/CS100.aspx). I figured, all I need is a dry/wet fader to make it happen. So instead of making a compressor myself (which I could really never do), I needed a starting point. I managed to buy a Behringer CS100 guitar compressor pedal around 15 dollars.  
   
-![behringer cs100 pedal](/public/img/behringercs100.jpg)  
+![behringer cs100 pedal]({{ site.baseurl }}{{ site.baseurl }}/public/img/behringercs100.jpg)  
   
 With some hints from Zephod (creator of [blok modular](http://www.blokmodular.com/)), I did some amazing discoveries. I realized that adding a dry/wet fader on a guitar pedal is really easy! You only have to find out where the connections for the in/outputs are!  
   
@@ -22,7 +22,7 @@ Hunting down the magic 3 wires
 So, armed with some wires connected to a headphone, and an old potmeter, I started the adventure. Soon I discovered where the little bastards were hiding:  
   
 (click image to enlarge)  
-[![guitar pedal compression new york parallel  hack](/public/img/photo3.JPG)](/public/img/photo3.JPG)  
+[![guitar pedal compression new york parallel  hack]({{ site.baseurl }}{{ site.baseurl }}/public/img/photo3.JPG)]({{ site.baseurl }}{{ site.baseurl }}/public/img/photo3.JPG)  
   
   
   
@@ -45,7 +45,7 @@ So, armed with some wires connected to a headphone, and an old potmeter, I start
 The green wire represents the middle connection for the potmeter. The black and red represent the other connections of the potmeter (doesn't really matter which one is which, at least, during my research).  
   
 (click image to enlarge)  
-[![behringer cs100 pedal hack new york compression](/public/img/photo2.JPG)](/public/img/photo2.JPG)  
+[![behringer cs100 pedal hack new york compression]({{ site.baseurl }}{{ site.baseurl }}/public/img/photo2.JPG)]({{ site.baseurl }}{{ site.baseurl }}/public/img/photo2.JPG)  
   
   
   

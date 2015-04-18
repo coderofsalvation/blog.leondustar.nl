@@ -10,7 +10,7 @@ title: hybrid setup
   
 
 
-![electribe](/public/img/esxhybrid.png)
+![electribe]({{ site.baseurl }}{{ site.baseurl }}/public/img/esxhybrid.png)
 
   
 
@@ -88,7 +88,7 @@ title: hybrid setup
 <span arial="" background-color:="" font-family:="" font-size:="" font-style:="" line-height:="" normal="" rgb="" sans-serif="" style="\"color:">Resampling like a madman is the key in this setup:
 
 
-![](/public/img/resamplorama.png)
+![]({{ site.baseurl }}{{ site.baseurl }}/public/img/resamplorama.png)
 
   
 

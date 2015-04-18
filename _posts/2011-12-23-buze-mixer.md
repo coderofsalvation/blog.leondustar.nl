@@ -11,12 +11,12 @@ Since this software is free, I want to give something back: my mixer skin!
 
 Well..'my' is a big word, I modified okapi/moon.god's skin :D
 
-[![ld](/public/img/ld)](/public/img/ld)
+[![ld]({{ site.baseurl }}{{ site.baseurl }}/public/img/ld)]({{ site.baseurl }}{{ site.baseurl }}/public/img/ld)
 
   
 
 
-download it > [here](/img//Downloads/ld%20mixer.gfx\" "\"\"") 
+download it > [here]({{ site.baseurl }}{{ site.baseurl }}/public//Downloads/ld%20mixer.gfx\" "\"\"") 
 <
 
   

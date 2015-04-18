@@ -4,7 +4,7 @@ title: david guetta loves it!
 ---
 David Guetta loves my track and he plays it out!   
 Its on David Guetta's 'Fuck Me I'm Famous' 63!  
-![david guetta plays leon du star fuck me im famous](/public/img/fif.jpg)  
+![david guetta plays leon du star fuck me im famous]({{ site.baseurl }}/public/img/fif.jpg)  
   
 Ater A-Trak, Laidback Luke, Kissy Sellout, Jaymo & Andy George, Annie Nightingale, Olav Basoski and Grum now David Guetta played my remix of  ''[Give My Love A Try](http://www.msplinks.com/MDFodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dW1MczhIcC1qYVk=)''.  
   
