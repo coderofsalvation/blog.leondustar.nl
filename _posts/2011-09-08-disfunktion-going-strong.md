@@ -7,7 +7,7 @@ Lately I'm checking out a lot of music, also made by friends. So check out my pr
 
   
 
-![disfunktion](data/upload/Afbeeldingen/disfunktion.jpg)
+![disfunktion]({{ site.baseurl }}/public/img/disfunktion.jpg)
 
 
   

@@ -8,4 +8,4 @@ The package has arrived! A new old korg electribe esx with JJ tubes. What a beas
   
 
 
-![korg electribe](data/upload/Afbeeldingen/electribeesx.jpg)
+![korg electribe]({{ site.baseurl }}/public/img/electribeesx.jpg)
