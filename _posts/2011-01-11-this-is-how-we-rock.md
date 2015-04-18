@@ -14,4 +14,3 @@ This insane bleep-theme resembles the funky crazyness which is going on lately b
 Check out this crazy release on Reiki Records [here](\"http://www.reikirecords.nl/\") !Check out the website of Disfunktion [here](\"http://www.disfunktion.nl/\") !
 
 
-</div>

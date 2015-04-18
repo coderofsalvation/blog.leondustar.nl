@@ -7,35 +7,35 @@ for my tracks on ADE 2009:
 
 1. Pizeta - 
 <span style="font-style: italic;">Kletzmer
-</span>
+
 
 ( LeonDuStar RMX) *SNEAKERZ*
 
 2. Taped - 
 <span style="font-style: italic;">The Question
-</span>
+
 
 ( LeonDuStar RMX), *SNEAKERZ*
 
 3. Leon Du Star - 
 <span style="font-style: italic;">Rippin up sound
-</span>**
+**
 
 4. Disfunktion & Leon Du Star -
 
 
 <span style="font-style: italic;">I see dead pixels
-</span> (640x480 mix ),* unsigned*
+ (640x480 mix ),* unsigned*
 
 5. Disfunktion & Leon Du Star & Aby -
 
 
 <span style="font-style: italic;">I wanna break free
-</span>, *unsigned *
+, *unsigned *
 
 6. Hugo van Dyck - 
 <span style="font-style: italic;">Give my love a try 
-</span>
+
 
 (Leon Du Star RMX), *CR2 Recordings*
 
@@ -43,19 +43,19 @@ for my tracks on ADE 2009:
 
 
 <span style="font-style: italic;">We should now celebrate
-</span>, *unsigned* 
+, *unsigned* 
 
 8. Batsboy - 
 <span style="font-style: italic;">I love myself and want to die
-</span>
+
 
 9. Batsboy - 
 <span style="font-style: italic;">Shut the fuck up
-</span> 
+ 
 
 10. EZ Loopaz - 
 <span style="font-style: italic;">waking up 
-</span>
+
 
 (liveact festival edit)
 

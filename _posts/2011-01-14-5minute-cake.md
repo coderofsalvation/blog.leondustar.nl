@@ -12,14 +12,14 @@ The 5 minute cake!
   
 How confident would you feel if you could make your friend a cake in 5 mins?  
 Imagine, how you could impress him/her with your feminine side?  
-![woman kitchen cake](http://www.leondustar.nl/img/womankitchen.jpeg)  
+![woman kitchen cake](/img/womankitchen.jpeg)  
   
 The 5 minute cake!
 ------------------
 
   
 How can you do this? Very simple..together with a friend I discovered a great 1 dollar all-in-one package in the supermarket:  
-![cake supermarket instant](http://www.leondustar.nl/img/photo1.JPG)  
+![cake supermarket instant](/img/photo1.JPG)  
   
   
   
@@ -42,7 +42,7 @@ Done deal!
 
   
 Tell your friend to open his/her eyes and prepare to see her/him crying tears of joy!  
-![cake ](http://www.leondustar.nl/img/cake2.JPG)  
+![cake ](/img/cake2.JPG)  
   
   
   

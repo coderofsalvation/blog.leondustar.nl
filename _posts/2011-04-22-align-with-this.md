@@ -24,13 +24,13 @@ This track was specially made to make crowds enjoy some funky scratching, with s
 </input>
 <input name="\"business\"" type="\"hidden\"" value="\"info@leondustar.nl\"">
 </input>
-<input name="\"notify_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/paypal\"">
+<input name="\"notify_url\"" type="\"hidden\"" value="\"/paypal\"">
 </input>
-<input name="\"return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+<input name="\"return\"" type="\"hidden\"" value="\"/payment-succes\"">
 </input>
-<input name="\"return_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+<input name="\"return_url\"" type="\"hidden\"" value="\"/payment-succes\"">
 </input>
-<input name="\"cancel_return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-cancel\"">
+<input name="\"cancel_return\"" type="\"hidden\"" value="\"/payment-cancel\"">
 </input>
 <input name="\"mc_currency\"" type="\"hidden\"" value="\"USD\"">
 </input>
@@ -52,13 +52,13 @@ This track was specially made to make crowds enjoy some funky scratching, with s
 </input>
 <input name="\"business\"" type="\"hidden\"" value="\"paypal@leondustar.nl\"">
 </input>
-<input name="\"notify_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/paypal\"">
+<input name="\"notify_url\"" type="\"hidden\"" value="\"/paypal\"">
 </input>
-<input name="\"return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+<input name="\"return\"" type="\"hidden\"" value="\"/payment-succes\"">
 </input>
-<input name="\"return_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+<input name="\"return_url\"" type="\"hidden\"" value="\"/payment-succes\"">
 </input>
-<input name="\"cancel_return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-cancel\"">
+<input name="\"cancel_return\"" type="\"hidden\"" value="\"/payment-cancel\"">
 </input>
 <input name="\"mc_currency\"" type="\"hidden\"" value="\"USD\"">
 </input>

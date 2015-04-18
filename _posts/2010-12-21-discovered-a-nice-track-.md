@@ -13,7 +13,7 @@ Last week I discovered a nice track 'grumpli' by Luca M. Really like this simple
 <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F6704623" type="application/x-shockwave-flash" width="100%">
 </embed>
 </object>
-<span>[luca m - grumpli ( original mix )](http://soundcloud.com/sugi/luca-m-grumpli-original-mix) by [sugi](http://soundcloud.com/sugi)
-</span>  
+[luca m - grumpli ( original mix )](http://soundcloud.com/sugi/luca-m-grumpli-original-mix) by [sugi](http://soundcloud.com/sugi)
+  
   
 ![](/data/mail/Luca-M-%13-Grumpli-Oachi-Pachi.jpg)
