@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buzz evangelism
+title: buzz evangelism
 ---
 Once in a while we have to do a bit of software evangelism. For productions we like many software: Cubase, Wavelab, plugins and also [Buzz](http://www.buzzmachines.com/).  
 ![buzz theme DAW Leon Du Star](/img/brutix_small_med.jpg)  

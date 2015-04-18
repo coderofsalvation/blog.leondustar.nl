@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Not ok?
+title: not ok?
 ---
 It seems you canceled the buying process.  
 If you have any suggestions for improvements concerning online payment please let us know!  

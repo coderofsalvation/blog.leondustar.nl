@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ADE tracklisting
+title: ade tracklisting
 ---
 For all the people who were curious   
 for my tracks on ADE 2009:

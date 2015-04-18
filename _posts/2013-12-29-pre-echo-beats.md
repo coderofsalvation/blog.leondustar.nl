@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-echo beats
+title: pre-echo beats
 ---
 There's something about mp3 what I like, and many others don't like: transientsmear. When drums are compressed with (lofi) mp3, pre-echo's are introduced. I like that. (I dont like the dynamics-loss of the transients, but I like pre-echo's).
 

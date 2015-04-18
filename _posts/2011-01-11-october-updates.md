@@ -1,6 +1,6 @@
 ---
 layout: post
-title: October updates!
+title: october updates!
 ---
 A lot of stuff is happening in the deep voidness of Funk. I've been very busy with preparing livesets, collaborations with various people, chitchatting with labelmanagers, and of course typing content for this newsletter.   
 Let these funkativities inspire you to listen/enjoy more funk, because the simplicity of Funk is sooo beautifull..   

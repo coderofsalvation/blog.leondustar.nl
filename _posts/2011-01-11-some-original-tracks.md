@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some original tracks
+title: some original tracks
 ---
 Here is a partial selection of some original tracks I made:  
   

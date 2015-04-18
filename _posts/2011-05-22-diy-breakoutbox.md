@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DIY breakoutbox
+title: diy breakoutbox
 ---
 Every men has an urge to 'fix' or 'make' stuff. Some men have it with their car, some with their house, some in their garden, and..ofcoarse some with their computer.  
 Here's what I just NEEDED tot make urgently:  

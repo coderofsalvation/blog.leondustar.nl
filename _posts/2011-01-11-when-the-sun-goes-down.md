@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When the sun goes down
+title: when the sun goes down
 ---
 Really enjoyed making this track with my friend from the US : [Talkbox Mayhem](\"http://www.myspace.com/talkboxmayhem\" "\"\""). He's definately one of the best people on the talkbox out there! Released on Control Recordings.  
 ![\"Leon](\"/img/promo_single_whenthesungoes.jpg\")  

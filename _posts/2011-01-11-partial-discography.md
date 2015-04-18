@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Partial discography
+title: partial discography
 ---
 Click on the image below to see Leon Du Star's partial discography:  
   

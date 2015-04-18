@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NY compression hack
+title: ny compression hack
 ---
 In all my music, I like to apply [NewYork Compression](http://en.wikipedia.org/wiki/Parallel_compression) to phatten things up. However, I always do this with software plugins. I always dreamed of a simple hardware NY compression-device but I've never seen one.  
 This would make a huge improvement on the sounds coming from YAMAHA hardware devices (which always sound very sterile  and clean). An example would be all the good'old hardware [grooveboxes ](http://en.wikipedia.org/wiki/Groovebox)out there, like my [RM1X.](http://en.wikipedia.org/wiki/Yamaha_RM1x)

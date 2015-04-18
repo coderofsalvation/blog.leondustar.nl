@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Guetta loves it!
+title: david guetta loves it!
 ---
 David Guetta loves my track and he plays it out!   
 Its on David Guetta's 'Fuck Me I'm Famous' 63!  

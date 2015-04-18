@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live like a phonker
+title: live like a phonker
 ---
 
 <object height="81" width="100%">

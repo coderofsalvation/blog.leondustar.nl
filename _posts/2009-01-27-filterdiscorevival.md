@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Filterdiscorevival
+title: filterdiscorevival
 ---
 This track contains very-yes funky explosions, for the real filterfreakcollectors out there.  
   

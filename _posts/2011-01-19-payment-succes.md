@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Payment completed!
+title: payment completed!
 ---
 Congrats!
 
