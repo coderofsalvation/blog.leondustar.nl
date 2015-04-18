@@ -2,7 +2,7 @@
 layout: post
 title: sampler tricks
 ---
-Ok since Im a sucker for [oldschool hardware samplers]({{ site.baseurl }}/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
+Ok since Im a sucker for [oldschool hardware samplers](blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
 
 
 Some of the tips here are borrowed from forums, youtube etc.  
@@ -150,7 +150,7 @@ Some of the tips here are borrowed from forums, youtube etc.
 
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">[precalculated table here]({{ site.baseurl }}{{ site.baseurl }}/public//Downloads/bpm.txt\" "\"\"")
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">[precalculated table here](data/upload//Downloads/bpm.txt\" "\"\"")
 
 
   
