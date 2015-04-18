@@ -40,7 +40,7 @@ This track was specially made to make crowds enjoy some funky scratching, with s
 </input>
 <input name="\"rm\"" type="\"hidden\"" value="\"2\"">
 </input>
-</form>[Buy 'Leon Du Star - Align with this'](\"#\")  
+</form>[Buy 'Leon Du Star - Align with this'](#)  
   
 
 <form action="\"https://www.sandbox.paypal.com/cgi-bin/webscr\"" id="\"leon-du-star---align-with-this_sandbox\"" method="\"post\"" style="\"\"">
@@ -68,4 +68,4 @@ This track was specially made to make crowds enjoy some funky scratching, with s
 </input>
 <input name="\"rm\"" type="\"hidden\"" value="\"2\"">
 </input>
-</form>[Test Buy 'Leon Du Star - Align with this' in sandbox](\"#\")
+</form>[Test Buy 'Leon Du Star - Align with this' in sandbox](#)

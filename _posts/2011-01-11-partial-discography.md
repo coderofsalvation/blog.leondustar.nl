@@ -4,4 +4,4 @@ title: partial discography
 ---
 Click on the image below to see Leon Du Star's partial discography:  
   
-[![\"Leon](\"/img/index_releases.jpg\")](\"/img/index_releases.jpg\")
+[![Leon](/public/img/index_releases.jpg)](/public/img/index_releases.jpg)

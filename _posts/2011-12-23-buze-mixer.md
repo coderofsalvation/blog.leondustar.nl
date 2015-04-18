@@ -5,18 +5,18 @@ title: buze mixer
 Lately I realized it: I have a dreamstudio.
 
 
-I've been really satisfied with my dreamsetup: [Buze](\"http://batman.no/buze/\" "\"\"") (a modular multiplugin-DAW), and [LD Mixer](\"http://buzzmachines.com/machineinfo.php?id=921\" "\"\"") (a modular multi-in/out mixer plugin).
+I've been really satisfied with my dreamsetup: [Buze](http://batman.no/buze/\" "\"\"") (a modular multiplugin-DAW), and [LD Mixer](http://buzzmachines.com/machineinfo.php?id=921\" "\"\"") (a modular multi-in/out mixer plugin).
 
 Since this software is free, I want to give something back: my mixer skin!
 
 Well..'my' is a big word, I modified okapi/moon.god's skin :D
 
-[![\"ld](\"/img/ld)](\"/img/ld)
+[![ld](/public/img/ld)](/public/img/ld)
 
   
 
 
-download it > [here](\"/img//Downloads/ld%20mixer.gfx\" "\"\"") 
+download it > [here](/img//Downloads/ld%20mixer.gfx\" "\"\"") 
 <
 
   
@@ -35,7 +35,7 @@ download it > [here](\"/img//Downloads/ld%20mixer.gfx\" "\"\"")
 
 
 <div arial="" border-color:="" border-style:="" font-family:="" font-size:="" font-style:="" initial="" ms="" normal="" style="\"border-style:" tahoma="">
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">This is why I like buze. It already has the flexible multi-input/output routing, native controller plugins & Ableton-like envelopes in the pattern editor. Together with this mixer its the bomb. Read more about buze [here](\"http://batman.no/buze\" "\"\""). 
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">This is why I like buze. It already has the flexible multi-input/output routing, native controller plugins & Ableton-like envelopes in the pattern editor. Together with this mixer its the bomb. Read more about buze [here](http://batman.no/buze\" "\"\""). 
 
 
 

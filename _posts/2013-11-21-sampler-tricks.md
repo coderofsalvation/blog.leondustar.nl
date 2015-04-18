@@ -2,7 +2,7 @@
 layout: post
 title: sampler tricks
 ---
-Ok since Im a sucker for [oldschool hardware samplers](\"http://leondustar.nl/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
+Ok since Im a sucker for [oldschool hardware samplers](/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
 
 
 Some of the tips here are borrowed from forums, youtube etc.  
@@ -34,7 +34,7 @@ Some of the tips here are borrowed from forums, youtube etc.
 **
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">instead of going for the traditional 1 sample per sampleslot, go for x samples per sampleslot using [this linux tool](\"https://github.com/coderofsalvation/sample-multi-shotifier\" "\"\""). This will open a whole new world of sequencing-possibilities.
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">instead of going for the traditional 1 sample per sampleslot, go for x samples per sampleslot using [this linux tool](https://github.com/coderofsalvation/sample-multi-shotifier\" "\"\""). This will open a whole new world of sequencing-possibilities.
 
 
 
@@ -57,7 +57,7 @@ Some of the tips here are borrowed from forums, youtube etc.
 
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">credit: [carillonaudio](\"http://carillonaudio.wordpress.com/2012/04/16/korg-esx-electribe-sampler-tips/\" "\"\"")
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">credit: [carillonaudio](http://carillonaudio.wordpress.com/2012/04/16/korg-esx-electribe-sampler-tips/\" "\"\"")
 
 
   
@@ -73,7 +73,7 @@ Some of the tips here are borrowed from forums, youtube etc.
 
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Wavosaur is also a nice sampleprecise editor. See the [electribrary](\"http://electribrary.2webapp.com/search?tags=tool\" "\"\"") for nice sampler tools.
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Wavosaur is also a nice sampleprecise editor. See the [electribrary](http://electribrary.2webapp.com/search?tags=tool\" "\"\"") for nice sampler tools.
 
 
 
@@ -150,13 +150,13 @@ Some of the tips here are borrowed from forums, youtube etc.
 
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">[precalculated table here](\"http://leondustar.nl/img//Downloads/bpm.txt\" "\"\"")
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">[precalculated table here](/img//Downloads/bpm.txt\" "\"\"")
 
 
   
 
 
-all credits go to: [carillonaudio](\"http://carillonaudio.wordpress.com/2013/01/24/sampler-cheat-sheet/\" "\"\"")
+all credits go to: [carillonaudio](http://carillonaudio.wordpress.com/2013/01/24/sampler-cheat-sheet/\" "\"\"")
 
 
 <span arial="" font-family:="" ms="" style="\"font-size:" tahoma="">*  
@@ -169,7 +169,7 @@ all credits go to: [carillonaudio](\"http://carillonaudio.wordpress.com/2013/01/
 **
 
 
-<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Samplers are to keep your head of filemanagement. Therefore, somehow automate this stuff. I have a folder 'write-to-smartmediacard' on my laptop. When I put new wavfiles in there, and I connect my smartmediacardreader, it automatically copies them. Put in card laptop, pull out, put in sampler, done. For linux use [udev-autorun](\"https://github.com/coderofsalvation/udev-autorun\" "\"\""), for windows use [autorun.inf](\"http://en.wikipedia.org/wiki/Autorun.inf\" "\"\""), for apple use applescript or something.
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Samplers are to keep your head of filemanagement. Therefore, somehow automate this stuff. I have a folder 'write-to-smartmediacard' on my laptop. When I put new wavfiles in there, and I connect my smartmediacardreader, it automatically copies them. Put in card laptop, pull out, put in sampler, done. For linux use [udev-autorun](https://github.com/coderofsalvation/udev-autorun\" "\"\""), for windows use [autorun.inf](http://en.wikipedia.org/wiki/Autorun.inf\" "\"\""), for apple use applescript or something.
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: buze tracker studio
 ---
-[Buze ](\"http://batman.no/buze\" "\"buze")really bridges the gap between external midi hardware, software studio & scripting & templating workflows. Buze ftw!
+[Buze ](http://batman.no/buze\" "\"buze")really bridges the gap between external midi hardware, software studio & scripting & templating workflows. Buze ftw!
   
 
 

@@ -8,7 +8,7 @@ There's something about mp3 what I like, and many others don't like: transientsm
   
 
 
-![\"\"](\"http://leondustar.nl/img/beat-mixed.png\")  
+![](/public/img/beat-mixed.png)  
 
   
 
@@ -67,7 +67,7 @@ Example: without pre-echo
   
 
 
-![\"beats](\"http://leondustar.nl/img/beat-dry.png\")
+![beats](/public/img/beat-dry.png)
 
   
 
@@ -119,7 +119,7 @@ Example: The fluffy reversed shaker
   
 
 
-![\"using](\"http://leondustar.nl/img/beat-shakers.png\")
+![using](/public/img/beat-shakers.png)
 
   
 
@@ -166,7 +166,7 @@ Example: mixed together
 
 
   
-![\"beats](\"http://leondustar.nl/img/beat-mixed.png\")
+![beats](/public/img/beat-mixed.png)
 
   
 

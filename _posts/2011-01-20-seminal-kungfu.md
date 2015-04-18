@@ -47,4 +47,4 @@ Check out this filterfunk jackin madness!
 </input>
 <input name="\"rm\"" type="\"hidden\"" value="\"2\"">
 </input>
-</form>[Buy 'Leon Du Star - seminal kungfu'](\"#\")
+</form>[Buy 'Leon Du Star - seminal kungfu'](#)
