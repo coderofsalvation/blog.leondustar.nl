@@ -9,6 +9,7 @@ permalink:        pretty
 title:            Leon Du Star
 tagline:          electronic funk music live-artist from Europe
 url:              http://coderofsalvation.github.io/blog.leondustar
+baseurl:          /blog.leondustar
 paginate:         6
 author:
   name:           Leon Du Star
