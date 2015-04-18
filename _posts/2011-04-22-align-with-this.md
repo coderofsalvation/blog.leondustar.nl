@@ -2,36 +2,70 @@
 layout: post
 title: align with this!
 ---
-<h1>align with this!</h1><br>This track was specially made to make crowds enjoy some funky scratching, with some nice fast beats. Long time a go I was very much into turntablism. My hero was the dutch scratch champion DJ Kypski. I was fortunate enough to learn some tricks of the trade from him). Anyways, I decided to get my dusty scratchrecords, and started recording some scratches. Had some great fun on this one!<br><br>
-<object height=\"81\" width=\"100%\"> <param name=\"movie\" value=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002945\"> <param name=\"allowscriptaccess\" value=\"always\"> <embed allowscriptaccess=\"always\" src=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002945\" type=\"application/x-shockwave-flash\" height=\"81\" width=\"100%\"> </object> <br><br><form id=\"leon-du-star---align-with-this\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" style=\"\">
-<input type=\"hidden\" name=\"custom\" value=\"7\">
-<input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
-<input type=\"hidden\" name=\"item_name\" value=\"Leon Du Star - Align with this\">
-<input type=\"hidden\" name=\"business\" value=\"info@leondustar.nl\">
-<input type=\"hidden\" name=\"notify_url\" value=\"http://www.leondustar.nl/paypal\">
-<input type=\"hidden\" name=\"return\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"return_url\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"cancel_return\" value=\"http://www.leondustar.nl/payment-cancel\">
-<input type=\"hidden\" name=\"mc_currency\" value=\"USD\">
-<input type=\"hidden\" name=\"mc_gross\" value=\"2.50\">
-<input type=\"hidden\" name=\"amount\" value=\"2.50\">
-<input type=\"hidden\" name=\"rm\" value=\"2\">
-</form>
-<a href=\"#\" class=\"buy\" onclick=\"$(&quot;leon-du-star---align-with-this&quot;).submit()\">Buy \'Leon Du Star - Align with this\'</a>
-<br><br>
-<form id=\"leon-du-star---align-with-this_sandbox\" action=\"https://www.sandbox.paypal.com/cgi-bin/webscr\" method=\"post\" style=\"\">
-<input type=\"hidden\" name=\"custom\" value=\"7\">
-<input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
-<input type=\"hidden\" name=\"item_name\" value=\"Leon Du Star - Align with this\">
-<input type=\"hidden\" name=\"business\" value=\"paypal@leondustar.nl\">
-<input type=\"hidden\" name=\"notify_url\" value=\"http://www.leondustar.nl/paypal\">
-<input type=\"hidden\" name=\"return\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"return_url\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"cancel_return\" value=\"http://www.leondustar.nl/payment-cancel\">
-<input type=\"hidden\" name=\"mc_currency\" value=\"USD\">
-<input type=\"hidden\" name=\"mc_gross\" value=\"2.50\">
-<input type=\"hidden\" name=\"amount\" value=\"2.50\">
-<input type=\"hidden\" name=\"rm\" value=\"2\">
-</form>
-<a style=\"display:none\" href=\"#\" class=\"buy\" onclick=\"$(&quot;leon-du-star---align-with-this_sandbox&quot;).submit()\">Test Buy \'Leon Du Star - Align with this\' in sandbox</a>
+This track was specially made to make crowds enjoy some funky scratching, with some nice fast beats. Long time a go I was very much into turntablism. My hero was the dutch scratch champion DJ Kypski. I was fortunate enough to learn some tricks of the trade from him). Anyways, I decided to get my dusty scratchrecords, and started recording some scratches. Had some great fun on this one!  
+  
 
+<object height="\"81\"" width="\"100%\"">
+<param name="\"movie\"" value="\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002945\"">
+</param>
+<param name="\"allowscriptaccess\"" value="\"always\"">
+</param>
+<embed allowscriptaccess="\"always\"" height="\"81\"" src="\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002945\"" type="\"application/x-shockwave-flash\"" width="\"100%\"">
+</embed>
+</object>
+
+
+<form action="\"https://www.paypal.com/cgi-bin/webscr\"" id="\"leon-du-star---align-with-this\"" method="\"post\"" style="\"\"">
+<input name="\"custom\"" type="\"hidden\"" value="\"7\"">
+</input>
+<input name="\"cmd\"" type="\"hidden\"" value="\"_xclick\"">
+</input>
+<input align="" du="" name="\"item_name\"" star="" this="" type="\"hidden\"" value="\"Leon" with="">
+</input>
+<input name="\"business\"" type="\"hidden\"" value="\"info@leondustar.nl\"">
+</input>
+<input name="\"notify_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/paypal\"">
+</input>
+<input name="\"return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"return_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"cancel_return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-cancel\"">
+</input>
+<input name="\"mc_currency\"" type="\"hidden\"" value="\"USD\"">
+</input>
+<input name="\"mc_gross\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"amount\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"rm\"" type="\"hidden\"" value="\"2\"">
+</input>
+</form>[Buy 'Leon Du Star - Align with this'](\"#\")  
+  
+
+<form action="\"https://www.sandbox.paypal.com/cgi-bin/webscr\"" id="\"leon-du-star---align-with-this_sandbox\"" method="\"post\"" style="\"\"">
+<input name="\"custom\"" type="\"hidden\"" value="\"7\"">
+</input>
+<input name="\"cmd\"" type="\"hidden\"" value="\"_xclick\"">
+</input>
+<input align="" du="" name="\"item_name\"" star="" this="" type="\"hidden\"" value="\"Leon" with="">
+</input>
+<input name="\"business\"" type="\"hidden\"" value="\"paypal@leondustar.nl\"">
+</input>
+<input name="\"notify_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/paypal\"">
+</input>
+<input name="\"return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"return_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"cancel_return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-cancel\"">
+</input>
+<input name="\"mc_currency\"" type="\"hidden\"" value="\"USD\"">
+</input>
+<input name="\"mc_gross\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"amount\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"rm\"" type="\"hidden\"" value="\"2\"">
+</input>
+</form>[Test Buy 'Leon Du Star - Align with this' in sandbox](\"#\")

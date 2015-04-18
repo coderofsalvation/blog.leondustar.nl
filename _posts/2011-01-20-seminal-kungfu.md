@@ -2,21 +2,49 @@
 layout: post
 title: seminal kungfu
 ---
-<h1>seminal kungfu</h1><br>BOOM! This is maybe one of the most highenergetic tracks I\'ve made.<br>Check out this filterfunk jackin madness!<br><br>
-<object width=\"100%\" height=\"81\"> <param name=\"movie\" value=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002951\"> <param name=\"allowscriptaccess\" value=\"always\"> <embed allowscriptaccess=\"always\" src=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002951\" type=\"application/x-shockwave-flash\" width=\"100%\" height=\"81\"> </object>  <span><span style=\"text-decoration: underline;\"><br><br></span></span>
-<form id=\"leon-du-star---seminal-kungfu\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" style=\"\">
-<input type=\"hidden\" name=\"custom\" value=\"4\">
-<input type=\"hidden\" name=\"cmd\" value=\"_xclick\">
-<input type=\"hidden\" name=\"item_name\" value=\"Leon Du Star - seminal kungfu\">
-<input type=\"hidden\" name=\"business\" value=\"info@leondustar.nl\">
-<input type=\"hidden\" name=\"notify_url\" value=\"http://www.leondustar.nl/paypal\">
-<input type=\"hidden\" name=\"return\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"return_url\" value=\"http://www.leondustar.nl/payment-succes\">
-<input type=\"hidden\" name=\"cancel_return\" value=\"http://www.leondustar.nl/payment-cancel\">
-<input type=\"hidden\" name=\"mc_currency\" value=\"USD\">
-<input type=\"hidden\" name=\"mc_gross\" value=\"2.50\">
-<input type=\"hidden\" name=\"amount\" value=\"2.50\">
-<input type=\"hidden\" name=\"rm\" value=\"2\">
-</form>
-<a href=\"#\" class=\"buy\" onclick=\"$(&quot;leon-du-star---seminal-kungfu&quot;).submit()\">Buy \'Leon Du Star - seminal kungfu\'</a>
+BOOM! This is maybe one of the most highenergetic tracks I've made.  
+Check out this filterfunk jackin madness!  
+  
 
+<object height="\"81\"" width="\"100%\"">
+<param name="\"movie\"" value="\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002951\"">
+</param>
+<param name="\"allowscriptaccess\"" value="\"always\"">
+</param>
+<embed allowscriptaccess="\"always\"" height="\"81\"" src="\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002951\"" type="\"application/x-shockwave-flash\"" width="\"100%\"">
+</embed>
+</object>
+<span>
+<span style="\"text-decoration:" underline="">  
+  
+
+</span>
+</span>
+
+
+<form action="\"https://www.paypal.com/cgi-bin/webscr\"" id="\"leon-du-star---seminal-kungfu\"" method="\"post\"" style="\"\"">
+<input name="\"custom\"" type="\"hidden\"" value="\"4\"">
+</input>
+<input name="\"cmd\"" type="\"hidden\"" value="\"_xclick\"">
+</input>
+<input du="" kungfu="" name="\"item_name\"" seminal="" star="" type="\"hidden\"" value="\"Leon">
+</input>
+<input name="\"business\"" type="\"hidden\"" value="\"info@leondustar.nl\"">
+</input>
+<input name="\"notify_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/paypal\"">
+</input>
+<input name="\"return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"return_url\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-succes\"">
+</input>
+<input name="\"cancel_return\"" type="\"hidden\"" value="\"http://www.leondustar.nl/payment-cancel\"">
+</input>
+<input name="\"mc_currency\"" type="\"hidden\"" value="\"USD\"">
+</input>
+<input name="\"mc_gross\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"amount\"" type="\"hidden\"" value="\"2.50\"">
+</input>
+<input name="\"rm\"" type="\"hidden\"" value="\"2\"">
+</input>
+</form>[Buy 'Leon Du Star - seminal kungfu'](\"#\")

@@ -2,6 +2,69 @@
 layout: post
 title: 5minute cake!
 ---
-<h1>5minute cake!</h1><br>How would you impress your beloved friends, artists, and/or businessrelations?<br>Would you show him your latest tracks? Your new underpants?<br>Thats nothing! Nothing..compared to this: <br><br><h2>The 5 minute cake!</h2><br>How confident would you feel if you could make your friend a cake in 5 mins?<br>Imagine, how you could impress him/her with your feminine side?<br><img class="img-align-left" alt="woman kitchen cake" src="http://www.leondustar.nl/img/womankitchen.jpeg" align="left"><br><br><h2>The 5 minute cake!</h2>
-<br>How can you do this? Very simple..together with a friend I discovered a great 1 dollar all-in-one package in the supermarket:<br><img class="img-align-left" alt="cake supermarket instant" src="http://www.leondustar.nl/img/photo1.JPG" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><h2>Get started!</h2><br>Put 30ml milk, 30ml oil, and 1 egg together with the powder. Put it 5 mins in the microwave and tell your friend to close his/her eyes.  (yes you read it:microwave..not over..crazy isn't it?) <br><br><h2>Done deal!</h2><br>Tell your friend to open his/her eyes and prepare to see her/him crying tears of joy!<br><img class="img-align-left" alt="cake " src="http://www.leondustar.nl/img/cake2.JPG" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><h2>Conclusion</h2><br>This is really the strangest instant microwave product I've ever seen :)<br><br>
+How would you impress your beloved friends, artists, and/or businessrelations?  
+Would you show him your latest tracks? Your new underpants?  
+Thats nothing! Nothing..compared to this:
 
+The 5 minute cake!
+------------------
+
+  
+How confident would you feel if you could make your friend a cake in 5 mins?  
+Imagine, how you could impress him/her with your feminine side?  
+![woman kitchen cake](http://www.leondustar.nl/img/womankitchen.jpeg)  
+  
+The 5 minute cake!
+------------------
+
+  
+How can you do this? Very simple..together with a friend I discovered a great 1 dollar all-in-one package in the supermarket:  
+![cake supermarket instant](http://www.leondustar.nl/img/photo1.JPG)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Get started!
+------------
+
+  
+Put 30ml milk, 30ml oil, and 1 egg together with the powder. Put it 5 mins in the microwave and tell your friend to close his/her eyes. (yes you read it:microwave..not over..crazy isn't it?)   
+  
+Done deal!
+----------
+
+  
+Tell your friend to open his/her eyes and prepare to see her/him crying tears of joy!  
+![cake ](http://www.leondustar.nl/img/cake2.JPG)  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Conclusion
+----------
+
+  
+This is really the strangest instant microwave product I've ever seen :)  
+  

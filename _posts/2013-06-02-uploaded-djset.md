@@ -2,6 +2,20 @@
 layout: post
 title: uploaded djset
 ---
-<h1>uploaded djset</h1><br>Here's a djset which I planned to upload for a while, but couldnt find the time (and the file on my harddisk hehe). It was liverecorded at a gig in Holland, and there's a lot of funkyness going on. First part is pretty funky/jacking-ish, and the other half is one big megamix of tunes I like.&nbsp;<div>&nbsp;</div>
-<iframe width="250" height="300" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fleondustar%2Fleon-du-star-live-djsetpolarize%2F&amp;embed_uuid=e8f0d7fc-8a68-48ee-9111-2d73da562d81&amp;stylecolor=d48002&amp;embed_type=widget_standard" frameborder="0"></iframe><div style="clear:both; height:3px; width:242px;"></div><p style="display:block; font-size:12px; font-family:Helvetica, Arial, sans-serif; margin:0; padding: 3px 4px; color:#d48002; width:242px;"><a href="http://www.mixcloud.com/leondustar/leon-du-star-live-djsetpolarize/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=resource_link" target="_blank" style="color:#d48002; font-weight:bold;">Leon Du Star - live djset@Polarize</a><span> by </span><a href="http://www.mixcloud.com/leondustar/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=profile_link" target="_blank" style="color:#d48002; font-weight:bold;">Leondustar</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&amp;utm_medium=web&amp;utm_campaign=base_links&amp;utm_term=homepage_link" target="_blank" style="color:#d48002; font-weight:bold;"> Mixcloud</a></p><div style="clear:both; height:3px;"></div>
+Here's a djset which I planned to upload for a while, but couldnt find the time (and the file on my harddisk hehe). It was liverecorded at a gig in Holland, and there's a lot of funkyness going on. First part is pretty funky/jacking-ish, and the other half is one big megamix of tunes I like. 
 
+
+<div> 
+</div>
+<iframe frameborder="0" height="300" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fleondustar%2Fleon-du-star-live-djsetpolarize%2F&embed_uuid=e8f0d7fc-8a68-48ee-9111-2d73da562d81&stylecolor=d48002&embed_type=widget_standard" width="250">
+</iframe>
+<div style="clear:both; height:3px; width:242px;">
+</div>[Leon Du Star - live djset@Polarize](http://www.mixcloud.com/leondustar/leon-du-star-live-djsetpolarize/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link)
+<span> by 
+</span>[Leondustar](http://www.mixcloud.com/leondustar/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link)
+<span> on 
+</span>[ Mixcloud](http://www.mixcloud.com/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=homepage_link)
+
+
+<div style="clear:both; height:3px;">
+</div>

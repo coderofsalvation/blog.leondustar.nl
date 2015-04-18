@@ -2,5 +2,179 @@
 layout: post
 title: sampler tricks
 ---
-<h1>sampler tricks</h1><br>Ok since Im a sucker for <a href=\"http://leondustar.nl/blog/archive/limitations-ftw\" title=\"\" target=\"\">oldschool hardware samplers</a>&nbsp;and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.<div>Some of the tips here are borrowed from forums, youtube etc.<br><div><br></div><div><b>Stay away from the computer</b></div><div><b><br></b></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\">Try to minimize your computerusage, especially internet and plugins can trigger your monkeybrains. If you want to create music walk to your sampler, accept the limitations and trigger your creative mind.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\">If you want to create samples walk to your computer.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\"><br></span></div><div><b>Use multishots</b></div><div><b><br></b></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">instead of going for the traditional 1 sample per sampleslot, go for x samples per sampleslot using <a href=\"https://github.com/coderofsalvation/sample-multi-shotifier\" title=\"\" target=\"_blank\">this linux tool</a>. This will open a whole new world of sequencing-possibilities.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \"><br></span></div><div><b>Save samplespace by pitching up</b></div><div><br></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">Pitch up sounds to save samplespace, and pitch them down on your sampler for normal playback. There are up/downsides to this approach. For every sample you create on your laptop, always create 2 versions when preparing samples (the original and the uppitched sample).&nbsp;</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \"><br></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">credit: <a href=\"http://carillonaudio.wordpress.com/2012/04/16/korg-esx-electribe-sampler-tips/\" title=\"\" target=\"_blank\">carillonaudio</a></span></div><div><br></div><div><b>Use proper tools</b></div><div><b><br></b></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">Some samplers only work with particular wav-files. Use sox-utilities to easily convert them to the proper bitrate/mono etc settings.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">Wavosaur is also a nice sampleprecise editor. See the <a href=\"http://electribrary.2webapp.com/search?tags=tool\" title=\"\" target=\"_blank\">electribrary</a> for nice sampler tools.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \"><br></span></div><div><b>Rely on children math</b></div><div><b><br></b></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\">Dont blame your sampler if your loops are not tight. Suppose you are (re)sampling a four-to-the-floor beat of 120bpm at 44100hz (so 4 beats). In case of problems cut the length of your loop to 88200 samples or 2000 ms (2sec). Why? There\'s simple math for this what you can remember:</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\"><br></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\"><u>length of loop in samples</u></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\">= &nbsp;</span><span style=\"font-family: inherit; font-style: inherit; line-height: 1.5;\">( (60/bpm) * beats ) * samplerate</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; line-height: 1.5;\"><br></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; line-height: 1.5;\">&nbsp;</span><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; line-height: 1.5;\"><i> &nbsp; &nbsp; so</i></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px;\"><i>&nbsp; ( (60/120) * 4 ) * 44100 = 88200 samples</i></span></div><div><br></div><div><u>bpm to millseconds</u></div><div>= ( 60000/bpm ) * 4</div><div><br></div><div><div style=\"font-style: normal; font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial;\"><span style=\"font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; line-height: 1.5;\"><i>&nbsp;so</i></span></div><div style=\"font-style: normal; font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial;\"><span style=\"font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial;\"><i>&nbsp; ( 60000/120 ) * 4 = 2000 ms</i></span></div></div><div><span style=\"font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial;\"><i><br></i></span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal;\"><a href=\"http://leondustar.nl/img//Downloads/bpm.txt\" title=\"\" target=\"_blank\">precalculated table here</a></span></div><div><br></div><div>all credits go to: <a href=\"http://carillonaudio.wordpress.com/2013/01/24/sampler-cheat-sheet/\" title=\"\" target=\"_blank\">carillonaudio</a></div><div><span style=\"font-size: 13px; font-family: Arial, \'Trebuchet MS\', Tahoma, Arial;\"><i><br></i></span></div><div><b>Automate your media-management</b></div><div><b><br></b></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \">Samplers are to keep your head of filemanagement. Therefore, somehow automate this stuff. I have a folder \'write-to-smartmediacard\' on my laptop. When I put new wavfiles in there, and I connect my smartmediacardreader, it automatically copies them. Put in card laptop, pull out, put in sampler, done. For linux use <a href=\"https://github.com/coderofsalvation/udev-autorun\" title=\"\" target=\"_blank\">udev-autorun</a>, for windows use <a href=\"http://en.wikipedia.org/wiki/Autorun.inf\" title=\"\" target=\"_blank\">autorun.inf</a>, for apple use applescript or something.</span></div><div><span style=\"font-family: Arial, \'Trebuchet MS\', Tahoma, Arial; font-size: 13px; font-style: normal; \"><br></span></div></div>
+Ok since Im a sucker for [oldschool hardware samplers](\"http://leondustar.nl/blog/archive/limitations-ftw\" "\"\"") and limitations, here are some tips which will work on the electribe esx sampler, but probably as well on other samplers.
 
+
+<div>Some of the tips here are borrowed from forums, youtube etc.  
+
+<div>  
+
+</div>
+<div>**Stay away from the computer**
+</div>
+<div>**  
+**
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Try to minimize your computerusage, especially internet and plugins can trigger your monkeybrains. If you want to create music walk to your sampler, accept the limitations and trigger your creative mind.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">If you want to create samples walk to your computer.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>**Use multishots**
+</div>
+<div>**  
+**
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">instead of going for the traditional 1 sample per sampleslot, go for x samples per sampleslot using [this linux tool](\"https://github.com/coderofsalvation/sample-multi-shotifier\" "\"\""). This will open a whole new world of sequencing-possibilities.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>**Save samplespace by pitching up**
+</div>
+<div>  
+
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Pitch up sounds to save samplespace, and pitch them down on your sampler for normal playback. There are up/downsides to this approach. For every sample you create on your laptop, always create 2 versions when preparing samples (the original and the uppitched sample). 
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">credit: [carillonaudio](\"http://carillonaudio.wordpress.com/2012/04/16/korg-esx-electribe-sampler-tips/\" "\"\"")
+</span>
+</div>
+<div>  
+
+</div>
+<div>**Use proper tools**
+</div>
+<div>**  
+**
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Some samplers only work with particular wav-files. Use sox-utilities to easily convert them to the proper bitrate/mono etc settings.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Wavosaur is also a nice sampleprecise editor. See the [electribrary](\"http://electribrary.2webapp.com/search?tags=tool\" "\"\"") for nice sampler tools.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>**Rely on children math**
+</div>
+<div>**  
+**
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Dont blame your sampler if your loops are not tight. Suppose you are (re)sampling a four-to-the-floor beat of 120bpm at 44100hz (so 4 beats). In case of problems cut the length of your loop to 88200 samples or 2000 ms (2sec). Why? There's simple math for this what you can remember:
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">
+<u>length of loop in samples
+</u>
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">=  
+</span>
+<span font-style:="" inherit="" line-height:="" style="\"font-family:">( (60/bpm) * beats ) * samplerate
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" line-height:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" line-height:="" ms="" normal="" style="\"font-family:" tahoma=""> 
+</span>
+<span arial="" font-size:="" line-height:="" ms="" style="\"font-family:" tahoma="">*     so*
+</span>
+</div>
+<div>
+<span arial="" font-size:="" ms="" style="\"font-family:" tahoma="">*  ( (60/120) * 4 ) * 44100 = 88200 samples*
+</span>
+</div>
+<div>  
+
+</div>
+<div>
+<u>bpm to millseconds
+</u>
+</div>
+<div>= ( 60000/bpm ) * 4
+</div>
+<div>  
+
+</div>
+<div>
+<div arial="" font-family:="" font-size:="" ms="" normal="" style="\"font-style:" tahoma="">
+<span arial="" font-family:="" line-height:="" ms="" style="\"font-size:" tahoma="">* so*
+</span>
+</div>
+<div arial="" font-family:="" font-size:="" ms="" normal="" style="\"font-style:" tahoma="">
+<span arial="" font-family:="" ms="" style="\"font-size:" tahoma="">*  ( 60000/120 ) * 4 = 2000 ms*
+</span>
+</div>
+</div>
+<div>
+<span arial="" font-family:="" ms="" style="\"font-size:" tahoma="">*  
+*
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">[precalculated table here](\"http://leondustar.nl/img//Downloads/bpm.txt\" "\"\"")
+</span>
+</div>
+<div>  
+
+</div>
+<div>all credits go to: [carillonaudio](\"http://carillonaudio.wordpress.com/2013/01/24/sampler-cheat-sheet/\" "\"\"")
+</div>
+<div>
+<span arial="" font-family:="" ms="" style="\"font-size:" tahoma="">*  
+*
+</span>
+</div>
+<div>**Automate your media-management**
+</div>
+<div>**  
+**
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">Samplers are to keep your head of filemanagement. Therefore, somehow automate this stuff. I have a folder 'write-to-smartmediacard' on my laptop. When I put new wavfiles in there, and I connect my smartmediacardreader, it automatically copies them. Put in card laptop, pull out, put in sampler, done. For linux use [udev-autorun](\"https://github.com/coderofsalvation/udev-autorun\" "\"\""), for windows use [autorun.inf](\"http://en.wikipedia.org/wiki/Autorun.inf\" "\"\""), for apple use applescript or something.
+</span>
+</div>
+<div>
+<span arial="" font-size:="" font-style:="" ms="" normal="" style="\"font-family:" tahoma="">  
+
+</span>
+</div>
+</div>
