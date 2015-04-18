@@ -1,0 +1,14 @@
+body{
+  background: #FFF url(/public/corner.gif) no-repeat top right;
+  background-size: 18%;
+}
+
+.masthead-title{
+}
+
+.masthead-title small {
+font-size: 50%;
+font-weight: 400;
+color: #c0c0c0;
+letter-spacing: 0;
+}

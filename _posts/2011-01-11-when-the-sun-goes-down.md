@@ -1,0 +1,6 @@
+---
+layout: post
+title: When the sun goes down
+---
+<h1>When the sun goes down</h1><br>Really enjoyed making this track with my friend from the US : <a target=\"_blank\" title=\"\" href=\"http://www.myspace.com/talkboxmayhem\">Talkbox Mayhem</a>. He\'s definately one of the best people on the talkbox out there! Released on Control Recordings.<br><img style=\"width: 255px; height: 265px;\" class=\"img-align-left\" alt=\"Leon du Star and Talkbox Mayhem when the sun goes down\" src=\"/img/promo_single_whenthesungoes.jpg\" align=\"left\"><br><br><object width=\"100%\" height=\"81\"><param name=\"movie\" value=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002948\"> <param name=\"allowscriptaccess\" value=\"always\"> <embed allowscriptaccess=\"always\" src=\"http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9002948\" type=\"application/x-shockwave-flash\" width=\"100%\" height=\"81\"> </object>  <span><a href=\"http://soundcloud.com/leon-du-star/leon-du-star-and-talkbox-mayhem-when-the-sun-goes-down\">Leon Du Star and Talkbox Mayhem - When the sun goes down</a> by <a href=\"http://soundcloud.com/leon-du-star\">Leon Du Star</a></span>
+

@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Leon Du Star
+tagline:          electronic funk music live-artist from Europe
+url:              http://www.leondustar.nl
+paginate:         6
+author:
+  name:           Leon Du Star
+  url:            https://twitter.com/leondustar.nl
+  email:          info@leondustar.nl
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/coderofsalvation/blog.leondustar

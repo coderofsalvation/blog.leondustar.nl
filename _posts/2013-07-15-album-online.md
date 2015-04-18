@@ -1,0 +1,7 @@
+---
+layout: post
+title: album online!
+---
+<h1>album online!</h1><br>Latest album can be enjoyed on youtube, officially approved by the illuminati, see more info on the youtubepage! May the funk be with you wherever you go!<div><br></div><div><br></div>
+<iframe width="250" height="315" src="//www.youtube.com/embed/eEVKgcekHi4" frameborder="0" allowfullscreen=""></iframe>
+
