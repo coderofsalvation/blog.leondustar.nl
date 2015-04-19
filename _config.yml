@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Leon Du Star
 tagline:          electronic funk music live-artist from Europe
 url:              http://test.leondustar.nl
-baseurl:          /
+baseurl:          
 paginate:         6
 author:
   name:           Leon Du Star
