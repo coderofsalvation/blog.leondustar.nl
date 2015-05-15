@@ -74,33 +74,3 @@ Now you are ready to go!
 Now find yourself a potmeter and you have a dry/wet fader on your gear!  
 Great inexpensive way to add some NewYork flavor to your hardware gear right?  
   
-Also interesting
-----------------
-
-  
-At the moment, I'm looking at the [Behringer DD400](http://www.behringer.com/EN/Products/DD400.aspx). Its basically a delay pedal, but is has 2 outputs: a dry and a wet one. I'm curious how the wet signal would sound, if you set the feedback to 0. In theory there would be one echo, so you would hear your dry signal delayed in time.  
-  
-Why is this interesting? 
--------------------------
-
-  
-Well, in the past I've dealed with latency problems concerning software samplers and my hardware MIDI gear. Luckily I own some good soundcards, but still the latency will always be influenced by the operating systems health & lifecycle.  
-Hardware devices however, hardly never have these problems..they just work.  
-So instead of 'tweaking' like a computer programmer to get better latency, it would be easier to just twist a knob, and delay the audio signal of your hardware device.  
-Get it?  
-  
-Integrating older PC hardware in your liveset
----------------------------------------------
-
-  
-This would also make it easier to introduce older laptops as a sampler in your hardware setup.   
-You could just fire up a pentium 500mhz laptop, run [sfz/sfz ](http://www.kvraudio.com/db/sfz_by_cakewalk) (free) or [shortcircuit](http://vemberaudio.se/shortcircuit.php) (free), download a soundfont torrent, and there you have a great MIDI sampler with 'zero' latency :)  
-Ofcoarse, this is crazy thinking for people who don't like to think outside the ableton box.  
-So..guess I have to get my hands on a DD400 soon :)  
-  
-The right moment to focus on hardware
--------------------------------------
-
-  
-Its amazing that nowadays you have digital audio effects just for some bucks, and hardware gear also (because everythings moves to software nowadays).  
-  
