@@ -3,7 +3,7 @@ layout: post
 title: this is how we rock!
 ---
 
-<div id="\"content\"">Out now on Reiki Records! : Disfunktion's \"This is how we rock\".
+Out now on Reiki Records! : Disfunktion's "This is how we rock".
 
 Already doing well on the dancefloors, the new big banger of Disfunktion now includes a jackedup minimalistic Leon Du Star-remix!
 
