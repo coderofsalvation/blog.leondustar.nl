@@ -6,3 +6,5 @@ Currently Im moving my studio to Budapest by postmail. Im really excited since I
 
 
 Im in the middle of my albummaking so I hope I can continue this soon :)
+
+> UPDATE: it seems my yamaha rm1x suffered some damage. Lesson learned: never send gear by mail, even if its insured and packed well. Not worth it.

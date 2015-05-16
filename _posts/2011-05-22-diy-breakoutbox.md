@@ -46,16 +46,7 @@ I started making digital music in '94 with amiga's, PC's and  some midi hardwar
 The road to where I am now, has been cluttered with bad-latency soundinterface experiences. Sometimes it was the hardware, or driver, or operating system.  
 Also, sometimes upgrading one thing/OS/soundcard, triggers a whole chain of other incompatiblity terror.  
 Conclusion: if you have a setup that works: KEEP IT (and make music).  
-Technology nowadays is evolving fast! So that means innovation is overshadowing backwards compatibility.  
-  
-Hommage to the EMU0404
-----------------------
 
-  
-I have had no problems with this guy on linux, windows xp and windows 7.   
-The latency is even tighter then my [Native Instruments Audio Kontrol USB interface](http://www.soundonsound.com/sos/mar07/articles/niaudiokontrol.htm "native instruments audio kontrol 1").  
-Since my EMU0404 PCI is so stable: I will fall for 'hey..lets upgrade this/that'. Because it is just TOO risky.  
-Before you know you are not able to make music :)  
   
   
   

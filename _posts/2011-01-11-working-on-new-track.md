@@ -18,6 +18,4 @@ Today was quite a succesfull day! I could spend my time on one track totally! Th
 [Leon Du Star - the happy hungarian](http://soundcloud.com/leon-du-star/leon-du-star-the-happy-hungarian) by [Leon Du Star](http://soundcloud.com/leon-du-star)
   
   
-It represents the new Leon Du Star sound: simple, positive, mad funky chicago vibes and big phat basslines on top!   
-  
-![](/data/mail/photo_2.JPG)
+It represents the new Leon Du Star sound: simple, positive, mad funky chicago vibes and big phat basslines on top!  
