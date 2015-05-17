@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CARLA: a dreamstudio
+title: CARLA a dreamstudio
 ---
 Remember reason? It gives you that feeling of owning gear and patching cables.
 
