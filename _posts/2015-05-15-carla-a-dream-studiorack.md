@@ -7,7 +7,7 @@ Remember reason? It gives you that feeling of owning gear and patching cables.
 Well, after a long software-break, I decided to check out Carla (on Linux).
 And I have to say I'm impressed!
 
-<img src="public/img/carla1.png"/>
+<img src="{{ site.baseurl }}/public/img/carla1.png"/>
 
 Finally a KISS pluginhost with *multi-platform* plugin-support:
 
@@ -25,7 +25,7 @@ Finally a KISS pluginhost with *multi-platform* plugin-support:
 Finally one central place to organize all my soft-gear, my crossplatform wish has been granted!
 A portable soft-studio which can be fed midi and audio by anything.
 
-<img src="public/img/carla2.png"/>
+<img src="{{ site.baseurl }}/public/img/carla2.png"/>
 
 ## Sequence as you wish
 
