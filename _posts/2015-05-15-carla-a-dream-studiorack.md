@@ -34,6 +34,9 @@ You can use carla as you wish:
 * as a standalone midi sending/receiving soft-studio (using hardware midi seq)
 * as a plugin in DAWS
 
+I hope it will somehow support changing patches using midi program change message.
+Would be cool to change studiorack setups using your outboard midi gear.
+
 ## How I plan to use CARLA
 
 Im curious if this tool will make me sit more often in front of a computer.
