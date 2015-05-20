@@ -3,7 +3,7 @@ layout: post
 title: electribe sx dithering distortion trick
 ---
 
-The Korg electribe SX native distortion effect lacks treble crips imho. 
+The Korg electribe SX native distortion effect lacks highfrequency content imho. 
 I accidentally discovered how to add high distortion frequencies: by maximizing the added dithering: normalize a sample played at low volume.
 Doing so with the eq-effect will give you still a bit of high- low-band control using the fx knobs.
 
