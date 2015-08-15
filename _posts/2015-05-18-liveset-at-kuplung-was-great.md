@@ -4,7 +4,7 @@ title: liveset at kuplung
 ---
 
 Here's the recording of a liveset i did in Budapest/Hungary.
-I hope you feeling the funk, and I want to especially thank Roland And Katalyn for making this possible.
+I hope you're feeling the funk, and I want to especially thank Roland And Katalyn for making this possible.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/179425416&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
